@@ -1,5 +1,5 @@
-# Hello everything is fine? My name ie Yasmin you can call me Yaya💫 
-About Me:
+# Hello everything is fine? My name ie Yasmin you can call me Yaya
+About Me:💫 
 I have a bachelor's degree in Information System.<br>Knowledge in programming languages: <br>- Python;<br>- Ruby;<br>-Darth;<br>-Kotlin;<br>-Arduino;<br>- MySQL;<br>- HTML;<br>-CSS;<br>-JavaScript;<br>I organize myself through GitHub and Trello. I currently work with Quality Assurance and technical support
 
 
