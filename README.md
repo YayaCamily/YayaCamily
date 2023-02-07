@@ -15,8 +15,6 @@ I have a bachelor's degree in Information System.<br>Knowledge in programming la
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yasmin Camily Catarino&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
