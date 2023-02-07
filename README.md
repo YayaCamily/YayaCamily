@@ -1,6 +1,10 @@
 # Hello everything is fine? My name ie Yasmin you can call me Yaya
 About Me:💫 
-I have a bachelor's degree in Information System.<br>Knowledge in programming languages:ython | C | Ruby | Dart | Kotlin | Arduino | MySQL | Linux | GitHub | Trello | HTML | CSS | JavaScript I organize myself through GitHub and Trello. I currently work with Quality Assurance and technical support
+I have a bachelor's degree in Information System.<br>
+Knowledge in programming languages:
+Python | C | Ruby | Dart | Kotlin | Arduino | MySQL | Linux | GitHub | Trello | HTML | CSS | JavaScript.
+
+I organize myself through GitHub and Trello. I currently work with Quality Assurance and technical support
 
 
 ## 🌐 Socials:
