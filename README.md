@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a bachelor's degree in Information System.<br>Knowledge in programming languages: <br>- Python;<br>- W;<br>-Ruby;<br>-Darth;<br>-Kotlin;<br>-Arduino;<br>- MySQL;<br>- HTML;<br>-CSS;<br>-JavaScript;<br>I organize myself through GitHub and Trello. I currently work with Quality Assurance and technical support
+I have a bachelor's degree in Information System.<br>Knowledge in programming languages: <br>- Python;<br>- Ruby;<br>-Darth;<br>-Kotlin;<br>-Arduino;<br>- MySQL;<br>- HTML;<br>-CSS;<br>-JavaScript;<br>I organize myself through GitHub and Trello. I currently work with Quality Assurance and technical support
 
 
 ## 🌐 Socials:
