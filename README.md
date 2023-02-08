@@ -1,6 +1,7 @@
 #  About Me:
 Information systems student, programming apprentice looking for his first professional experience as a programmer.
 Has experience in advanced projects in Python and Java Script.
+Fluent English
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YasminCamilyCatarino) 
