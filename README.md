@@ -1,5 +1,5 @@
 #  About Me:
-I have a bachelor's degree in Information System.
+I have a bachelor's degree in Informations System.
 I'm a programmer and I'm always in search of knowledge. And perfect my projects
 
 
